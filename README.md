@@ -4,7 +4,7 @@
 **Track:** Data Analytics
 **Programme:** AnalystLab Africa Experience Lab
 
-This repository documents my work through the AnalystLab Africa Data Analytics Internship Programme—from the Week 1–3 foundational projects through to the ongoing **HealthConnect Clinic Experience Lab**, a shared project all tracks contribute to from Week 4 onward.
+This repository documents my work through the AnalystLab Africa Data Analytics Internship Programme — from the Week 1–3 foundational projects through to the ongoing **HealthConnect Clinic Experience Lab**, a shared project all tracks contribute to from Week 4 onward.
 
 ---
 
@@ -12,9 +12,9 @@ This repository documents my work through the AnalystLab Africa Data Analytics I
 
 | Week | Project | Focus | Status |
 |---|---|---|---|
-| 1 | Employee Attrition Analysis — ABC Manufacturing Ltd | Business understanding, dataset inspection, exploratory notebook | Complete |
-| 2 | Business Intelligence & Interactive Dashboard — Superstore Sales | Power BI dashboard for a simulated retail client | Complete |
-| 3 | Advanced Data Analysis & KPI Development — Superstore Sales | DAX measures, time-based analysis, BI dashboard | Complete |
+| 1 | Employee Attrition Analysis - ABC Manufacturing Ltd | Business understanding, dataset inspection, exploratory notebook | Complete |
+| 2 | Business Intelligence & Interactive Dashboard - Superstore Sales | Power BI dashboard for a simulated retail client | Complete |
+| 3 | Advanced Data Analysis & KPI Development - Superstore Sales | DAX measures, time-based analysis, BI dashboard | Complete |
 | 4 | HealthConnect Clinic Experience Lab | Problem understanding, dataset review, data quality assessment, business questions, KPI definition | In Progress |
 
 *(Weeks 1–3 folders/files are retained as-is per programme guidance — they are not redone as the project moves to HealthConnect.)*
@@ -28,17 +28,17 @@ HealthConnect Clinic is a fictional healthcare provider experiencing missed appo
 
 **Central Project Question:** How can HealthConnect Clinic use data and AI to reduce missed appointments and improve the patient support experience?
 
-### My Role — Data Analytics Track
+### My Role - Data Analytics Track
 Review the appointment dataset, assess its quality, define the business questions worth answering, and propose KPIs HealthConnect can track over time. This work is intended to feed directly into the Data Science track's no-show prediction model and give the Generative AI track a factual picture of the problem to design around.
 
 ### Data Sources (official project files)
-- `HealthConnect_Appointment_Data.csv` — 5,000 appointment records, 18 fields
-- `HealthConnect_Data_Dictionary.xlsx` — official field definitions
+- `HealthConnect_Appointment_Data.csv`- 5,000 appointment records, 18 fields
+- `HealthConnect_Data_Dictionary.xlsx` - official field definitions
 
 ### Week 4 Deliverables
-- `HealthConnect_Week4_Data_Analytics_Initial_Analysis.docx` — dataset overview, data quality assessment, business questions, KPI definitions, initial analysis approach, assumptions/limitations/risks/dependencies
-- `HealthConnect_Week4_Project_Summary.docx` — concise summary of Week 4 work and proposed Week 5 focus
-- `HealthConnect_PowerBI_DatasetOverview_Guide.docx` — step-by-step guide to building the dataset overview and data quality pages in Power BI
+- `HealthConnect_Week4_Data_Analytics_Initial_Analysis.docx` - dataset overview, data quality assessment, business questions, KPI definitions, initial analysis approach, assumptions/limitations/risks/dependencies
+- `HealthConnect_Week4_Project_Summary.docx` - concise summary of Week 4 work and proposed Week 5 focus
+- `HealthConnect_PowerBI_DatasetOverview_Guide.docx` - step-by-step guide to building the dataset overview and data quality pages in Power BI
 - `HealthConnect_DatasetOverview.pbix` — Power BI file *(add once built, following the guide above)*
 
 ### Key Week 4 Findings
@@ -57,7 +57,7 @@ Review the appointment dataset, assess its quality, define the business question
 5. Is distance to the clinic associated with lower attendance?
 6. Does a patient's prior no-show history predict a future no-show?
 
-### Proposed KPIs (defined, not yet calculated — per Week 4 scope)
+### Proposed KPIs (defined, not yet calculated - per Week 4 scope)
 1. Overall No-Show Rate
 2. No-Show Rate by Reminder Status
 3. No-Show Rate by Lead-Time Band
@@ -92,7 +92,6 @@ Python (pandas) for data review and quality checks · Power BI for the dataset o
     └── HealthConnect_DatasetOverview.pbix
 ```
 
-*(Adjust folder names above to match whatever structure your existing repo already uses — this mirrors the weekly breakdown in the Progress table.)*
 
 ---
 
