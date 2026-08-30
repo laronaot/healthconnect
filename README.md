@@ -1,10 +1,10 @@
 # AnalystLab Africa — Data Analytics Internship Programme
 
-**Intern:** Larona
+**Intern:** Larona Othapile
 **Track:** Data Analytics
 **Programme:** AnalystLab Africa Experience Lab
 
-This repository documents my work through the AnalystLab Africa Data Analytics Internship Programme — from the Week 1–3 foundational projects through to the ongoing **HealthConnect Clinic Experience Lab**, a shared project all tracks contribute to from Week 4 onward.
+This repository documents my work through the AnalystLab Africa Data Analytics Internship Programme—from the Week 1–3 foundational projects through to the ongoing **HealthConnect Clinic Experience Lab**, a shared project all tracks contribute to from Week 4 onward.
 
 ---
 
