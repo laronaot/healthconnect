@@ -1,4 +1,4 @@
-# AnalystLab Africa — Data Analytics Internship Programme
+# AnalystLab Africa Data Analytics Internship Programme
 
 **Intern:** Larona Othapile
 **Track:** Data Analytics
